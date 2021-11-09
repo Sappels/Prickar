@@ -14,4 +14,4 @@ Pricköverblick.
 | Kolbe | 14 |
 | Eric | 18 |
 | Furkan | 30.5 |
-| Viktor | 31 |
+| Viktor | 21 |
