@@ -13,5 +13,6 @@ Pricköverblick.
 | Jesper | 8 |
 | Kolbe | 14 |
 | Eric | 18 |
+| Viktor | 21 |
 | Furkan | 30.5 |
-| Viktor | 31 |
+
